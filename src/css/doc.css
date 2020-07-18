@@ -52,7 +52,7 @@
 
   #preamble + .sect1,
   .doc .sect1 + .sect1 {
-    margin: 4.5rem 0 !important;
+    margin: 2rem 0 !important;
   }
 }
 
@@ -498,6 +498,16 @@
   .doc .guides-grid {
     column-gap: 2rem;
   }
+}
+
+.doc .group-header h2 {
+  margin-top: 3.5rem;
+  text-align: left;
+}
+
+.doc .group-header p {
+  text-align: left;
+  margin-top: 2rem;
 }
 
 .doc .guide a::after {
