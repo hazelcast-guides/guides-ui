@@ -7,7 +7,7 @@
   var levels = parseInt(sidebar.dataset.levels || 2)
   if (levels < 0) return
 
-  var article = document.querySelector('article.doc')
+  var article = document.querySelector('article.guide-content')
   var headings
   var headingSelector = []
   for (var l = 0; l <= levels; l++) headingSelector.push(l ? '.sect' + l + '>h' + (l + 1) + '[id]' : 'h1[id].sect0')
