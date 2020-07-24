@@ -17,9 +17,10 @@ to customize, preview and bundle the UI.
 
 === Software
 
-The software content in the repository (build scripts, JavaScript files, Handlebars templates, foundation CSS, utility icons, etc.)
-is the part of {antora-url}[Antora] project. As such, use of the software is granted under the terms of the
-https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License Version 2.0] (MPL-2.0).
+The software content in the repository except for Hazelcast logo and icons, (build scripts, JavaScript files,
+Handlebars templates, foundation CSS, utility icons, etc.) is the part of {antora-url}[Antora] project. As such,
+use of the software is granted under the terms of the https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License Version 2.0]
+(MPL-2.0).
 
 === Branding and Design
 
