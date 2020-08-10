@@ -20,6 +20,12 @@
   }
 }
 
+@media screen and (min-width: 1500px) {
+  .guide-content {
+    max-width: 1600px;
+  }
+}
+
 .guide-content h1,
 .guide-content h2,
 .guide-content h3,
