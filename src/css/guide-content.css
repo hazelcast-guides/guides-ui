@@ -44,6 +44,24 @@
   margin: 1.5rem 0;
 }
 
+.guide-content .edit-page {
+  margin-bottom: 2rem;
+}
+
+.guide-content > p.edit-page {
+  font-style: italic;
+  font-size: calc(14 / var(--rem-base) * 1rem);
+  color: #8e8e8e;
+}
+
+.guide-content .edit-page a {
+  color: #8e8e8e;
+}
+
+.guide-content .edit-page a:hover {
+  color: #595959;
+}
+
 @media screen and (min-width: 769px) {
   .guide-content > h1.page:first-child {
     margin-top: 2.5rem;
