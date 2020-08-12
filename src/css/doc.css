@@ -456,6 +456,7 @@
   padding: 0.5rem 1rem 1.25rem;
   break-inside: avoid-column;
   border-radius: 5px;
+  transform: translateZ(0);
 }
 
 @media screen and (min-width: 1024px) {
