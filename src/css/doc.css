@@ -508,6 +508,19 @@
   }
 }
 
+@media screen and (max-width: 1023px) {
+  .doc {
+    max-width: 95%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .doc .guides-grid {
+    column-count: 1;
+    margin: var(--doc-margin);
+  }
+}
+
 .doc .group-header h2 {
   margin-top: 3.5rem;
   text-align: left;
