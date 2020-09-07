@@ -2,7 +2,7 @@
 // Settings:
 :experimental:
 :hide-uri-scheme:
-:guides-site-url: https://hazelcast-guides.github.io/guides-site/home/index.html
+:guides-site-url: https://guides.hazelcast.org/home/
 :antora-default-ui-url: https://gitlab.com/antora/antora-ui-default
 :antora-url: https://antora.org/
 :hazelcast-com: https://hazelcast.com/
