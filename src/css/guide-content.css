@@ -390,7 +390,7 @@
 .guide-content ol,
 .guide-content ul {
   margin: 0;
-  padding: 0 0 0 2rem;
+  /* padding: 0 0 0 2rem; */
 }
 
 .guide-content ol.arabic {
