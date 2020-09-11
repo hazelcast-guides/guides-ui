@@ -483,7 +483,8 @@
 .doc .image > img {
   height: 32px;
   width: auto;
-  margin: 1rem -0.7rem -1.4rem 1rem;
+  margin-top: -0.15rem;
+  margin-right: 0.5rem;
 }
 
 .doc .guide .paragraph {
@@ -522,6 +523,8 @@
 
   .doc .image > img {
     height: 0;
+    margin-right: 0;
+    margin-top: 0;
   }
 }
 
