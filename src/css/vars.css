@@ -18,9 +18,9 @@
   --color-black: #000;
 
   /* custom colors */
-  --color-background: #f2f5f9;
-  --color-guide-title: #353d49;
-  --color-guide-subtitle: #6d7480;
+  --color-background: #f8f8f8;
+  --color-guide-title: #1f2075;
+  --color-guide-subtitle: #1f2450;
 
   /* fonts */
   --rem-base: 16;
@@ -29,7 +29,7 @@
   --body-font-size--print: 0.9375em; /* 15px */
   --body-line-height: 1.15;
   --body-font-color: var(--color-jet-70);
-  --body-font-family: "Roboto", sans-serif;
+  --body-font-family: "Ubuntu", sans-serif;
   --body-font-weight-bold: 500;
   --monospace-font-family: "Roboto Mono", monospace;
   --monospace-font-weight-bold: 500;
@@ -81,7 +81,7 @@
   --warning-color: #e18114;
   --warning-on-color: var(--color-white);
   /* Hazelcast theme */
-  --hazelcast-dark-blue: #142934;
+  --hazelcast-dark-blue: #002a7b;
   --hazelcast-light-blue: #2a7de2;
   /* doc */
   --doc-font-color: var(--color-jet-50);
@@ -146,4 +146,9 @@
   --z-index-toolbar: 2;
   --z-index-page-version-menu: 3;
   --z-index-navbar: 4;
+  /* landing page */
+  --landing-main-header-color: #1f2450;
+  --landing-box-title-font-weight: bold;
+  --landing-box-shadow: 0 5px 10px 0 rgba(0, 42, 123, 0.3);
+  --landing-box-subtitle-color: #1f2450;
 }

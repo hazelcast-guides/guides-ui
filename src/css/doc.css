@@ -42,6 +42,10 @@
   margin: 1rem 0 0;
 }
 
+.doc h1 {
+  color: var(--landing-main-header-color);
+}
+
 .doc > h1.page:first-child {
   font-size: calc(36 / var(--rem-base) * 1rem);
   margin: 2rem 0 0 0;
@@ -71,7 +75,7 @@
 }
 
 .doc h3:not(.discrete) {
-  font-weight: var(--alt-heading-font-weight);
+  font-weight: var(--landing-box-title-font-weight);
 }
 
 .doc h1 .anchor,
@@ -467,12 +471,12 @@
 
 .doc .guide:hover {
   cursor: default;
-  box-shadow: 0 5px 10px 0 rgba(53, 61, 73, 0.2);
+  box-shadow: var(--landing-box-shadow);
 }
 
 .doc .guide h3 {
   color: var(--color-guide-title);
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   line-height: 0;
   padding: 0 0 0.5rem;
   position: relative;

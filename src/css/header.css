@@ -7,7 +7,7 @@ body {
 }
 
 .navbar {
-  background: var(--hazelcast-light-blue);
+  background: var(--hazelcast-dark-blue);
   color: var(--color-whiter);
   font-size: 1rem;
   height: var(--navbar-height);
