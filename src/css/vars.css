@@ -35,7 +35,7 @@
   --monospace-font-weight-bold: 500;
   /* base */
   --body-background: var(--color-background);
-  --panel-background: var(--color-smoke-30);
+  --panel-background: #e8e8e8;
   --panel-border-color: var(--color-smoke-90);
   --scrollbar-thumb-color: var(--color-gray-10);
   /* navbar */
@@ -151,4 +151,8 @@
   --landing-box-title-font-weight: bold;
   --landing-box-shadow: 0 5px 10px 0 rgba(0, 42, 123, 0.3);
   --landing-box-subtitle-color: #1f2450;
+  /* guide page */
+  --guide-main-header-color: var(--color-guide-title);
+  --guide-section-header-color: var(--color-guide-title);
+  --guide-main-header-font-weight: bold;
 }
