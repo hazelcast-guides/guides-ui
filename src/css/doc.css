@@ -475,7 +475,7 @@
 }
 
 .doc .guide h3 {
-  color: var(--color-guide-title);
+  color: var(--landing-box-title-color);
   font-size: 1.15rem;
   line-height: 0;
   padding: 0 0 0.5rem;

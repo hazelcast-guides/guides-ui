@@ -148,6 +148,7 @@
   --z-index-navbar: 4;
   /* landing page */
   --landing-main-header-color: #1f2450;
+  --landing-box-title-color: #1f2450;
   --landing-box-title-font-weight: bold;
   --landing-box-shadow: 0 5px 10px 0 rgba(0, 42, 123, 0.3);
   --landing-box-subtitle-color: #1f2450;
