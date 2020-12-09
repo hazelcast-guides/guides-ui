@@ -45,7 +45,7 @@ body {
 
   .navbar-end > a.navbar-item:hover,
   .navbar-end .navbar-link:hover {
-    background: var(--hazelcast-dark-blue);
+    background: var(--hazelcast-light-blue);
     color: var(--color-white);
   }
 
@@ -54,7 +54,7 @@ body {
   }
 
   .navbar-item.has-dropdown:hover .navbar-link {
-    background: var(--hazelcast-dark-blue);
+    background: var(--hazelcast-light-blue);
     color: var(--color-white);
   }
 }

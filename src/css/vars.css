@@ -74,7 +74,7 @@
   --caution-on-color: var(--color-white);
   --important-color: #d32f2f;
   --important-on-color: var(--color-white);
-  --note-color: #217ee7;
+  --note-color: var(--hazelcast-dark-blue);
   --note-on-color: var(--color-white);
   --tip-color: #41af46;
   --tip-on-color: var(--color-white);
