@@ -88,8 +88,8 @@
 }
 
 .toc .toc-menu a.is-active {
-  border-left-color: var(--link-font-color);
-  color: var(--doc-font-color);
+  border-left-color: var(--hazelcast-dark-blue);
+  color: var(--hazelcast-dark-blue);
 }
 
 .sidebar.toc .toc-menu a:focus {
