@@ -1,17 +1,19 @@
 <header class="header">
   <nav class="navbar">
     <div class="navbar-brand">
+      <img
+        class="logo"
+        alt="Hazelcast"
+        srcset="{{{uiRootPath}}}/img/hazelcast-logo-white.png 1x, {{{uiRootPath}}}/img/hazelcast-logo-white@2x.png 2x, {{{uiRootPath}}}/img/hazelcast-logo-white@3x.png 3x"
+      />
       {{#with site.homeUrl}}
-        <a class="navbar-item" href="{{{relativize this}}}">{{site.title}}</a>
+      <a class="navbar-item" href="{{{relativize this}}}">Hazelcast Guides</a>
       {{/with}}
       <button class="navbar-burger" data-target="topbar-nav">
         <span></span>
         <span></span>
         <span></span>
       </button>
-      {{#with site.homeUrl}}
-      <a href="{{{relativize this}}}" class="navbar-home-button"></a>
-      {{/with}}
     </div>
     <div id="topbar-nav" class="navbar-menu">
       <div class="navbar-end">
